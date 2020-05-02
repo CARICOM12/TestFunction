@@ -1,0 +1,5 @@
+/home/alex/Projects/TestFunction/TestFunction/bin/Debug/TestFunction.exe
+/home/alex/Projects/TestFunction/TestFunction/bin/Debug/TestFunction.pdb
+/home/alex/Projects/TestFunction/TestFunction/obj/x86/Debug/TestFunction.csprojAssemblyReference.cache
+/home/alex/Projects/TestFunction/TestFunction/obj/x86/Debug/TestFunction.exe
+/home/alex/Projects/TestFunction/TestFunction/obj/x86/Debug/TestFunction.pdb
